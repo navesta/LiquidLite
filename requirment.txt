@@ -1,0 +1,13 @@
+# Core dependencies for LiquidLite training + inference
+torch
+numpy
+Pillow
+transformers
+ncps
+opencv-python
+
+# Plot generation in training (plot_metrics). Safe to keep installed.
+matplotlib
+
+# Backend used by some Hugging Face vision models/pipelines.
+timm
